@@ -13,6 +13,8 @@
 This project is aimed at learning application development using Go for the backend and Next.js for the frontend.  
 It is designed as a web service where users can buy and sell image materials.
 
+![App Screenshot](./assets/app-screenshot.png)
+
 ## Tech Stack
 
 ### Backend
